@@ -2,6 +2,7 @@
 **Assignment based on Pyspark**
 
 **Tasks:**
+
   1.Load the dataset into a PySpark DataFrame.
   2.Convert the Date and Time columns into a timestamp column named Timestamp.
   3.Filter the dataset to include only earthquakes with a magnitude greater than 5.0. 
@@ -12,6 +13,7 @@
   8.Please include the final csv in the repository.
 
 **Dataset Definition:**
+
 Use the earthquake dataset with the following columns:
   Date (string): Date of the earthquake.
   Time (string): Time of the earthquake.
